@@ -1,2 +1,0 @@
-import drip
-drip.login()
