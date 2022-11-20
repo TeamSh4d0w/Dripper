@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=259F497E&multiline=true&width=435&lines=We+are+shadow%2C+Together+we+learn+%2C;shadow+all+noobs+together%2C;There+is+no+pro%2C+all+are+noob+%2C;So+stop+the+mouth+making+you+motherfucker)](https://git.io/typing-svg)
+
+
 pip install rich 
 
 pip install simplejson 
